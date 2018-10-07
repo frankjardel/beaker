@@ -51,6 +51,16 @@ Backers support this project by contributing $2 to $99 a month. [Become a backer
 
 ## Installing
 
+## Install Node & NPM first
+
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
+sudo apt-get install nodejs npm
+
+npm install -g npm@4
+
+npm install sqlite3
+
 ### Binaries
 
 **Visit the [Releases Page](https://github.com/beakerbrowser/beaker/releases) to find the installer you need.**
